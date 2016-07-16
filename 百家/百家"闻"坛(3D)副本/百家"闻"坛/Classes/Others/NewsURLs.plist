@@ -20,19 +20,19 @@
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>手机</string>
+		<string>军事</string>
 		<key>urlString</key>
-		<string>list/T1348649654285</string>
+		<string>list/T1348648141035</string>
 		<key>replyUrl</key>
-		<string>mobile_bbs</string>
+		<string>photoview_bbs</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>移动互联</string>
+		<string>健康</string>
 		<key>urlString</key>
-		<string>list/T1351233117091</string>
+		<string>list/T1414389941036</string>
 		<key>replyUrl</key>
-		<string>mobile_bbs</string>
+		<string>jiankang_bbs</string>
 	</dict>
 	<dict>
 		<key>title</key>
@@ -52,11 +52,11 @@
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>电影</string>
+		<string>历史</string>
 		<key>urlString</key>
-		<string>list/T1348648650048</string>
+		<string>list/T1368497029546</string>
 		<key>replyUrl</key>
-		<string>ent2_bbs</string>
+		<string>3g_bbs</string>
 	</dict>
 	<dict>
 		<key>title</key>

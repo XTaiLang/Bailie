@@ -1408,7 +1408,7 @@
 				TargetAttributes = {
 					3A5CA1621C755853000D8B11 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = DSW48G58Q5;
+						DevelopmentTeam = MMF96ZXW59;
 					};
 				};
 			};
@@ -1710,7 +1710,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.weiyi.team;
 				PRODUCT_NAME = BaiJia;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "0c496d48-602b-4aaf-bdbb-8be23aa9e1aa";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -1728,7 +1728,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.weiyi.team;
 				PRODUCT_NAME = BaiJia;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "0c496d48-602b-4aaf-bdbb-8be23aa9e1aa";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
